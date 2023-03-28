@@ -1,0 +1,24 @@
+html, body {
+    background-color: #000;
+    color: #fff;
+    margin: auto;
+    padding: 10px;
+    /*width: 1280px;*/
+}
+a {
+    color: cyan;
+}
+table {
+    border-collapse: collapse;
+    margin: 10px 0;
+}
+table, th, td {
+    border: 1px solid #333333;
+}
+tr:hover {
+    background-color: #777777;
+}
+th, td {
+    text-align: left;
+    padding: 10px;
+}
