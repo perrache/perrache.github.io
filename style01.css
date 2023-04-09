@@ -23,3 +23,8 @@ th, td {
     text-align: left;
     padding: 10px;
 }
+div.divForm {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
